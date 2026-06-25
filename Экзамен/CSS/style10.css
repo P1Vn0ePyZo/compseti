@@ -1,0 +1,11 @@
+.q, .w {
+    width: 300px;
+    height: 250px;
+    background-size: cover;
+}
+.q {
+    background-image: url('../img/15.jpg');
+}
+.w {
+    background-image: url('../img/14.jpg');
+}

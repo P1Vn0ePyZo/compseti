@@ -1,0 +1,9 @@
+.Cap{
+ text-transform: capitalize;
+}
+.low{
+text-transform: lowercase;
+}
+.upp{
+text-transform: uppercase;
+}

@@ -1,0 +1,16 @@
+.q{
+etter-spacing: normal;
+word-spacing: normal
+}
+.w{
+Letter-spacing: -1px;
+}
+.e{
+Letter-spacing: 1px;
+}
+.r{
+word-spacing: -1px;
+}
+.t{
+word-spacing: 1px;
+}

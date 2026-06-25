@@ -1,0 +1,10 @@
+.q {
+    width: 450px;
+    background-color: #f5f5f5;
+    border: 1px solid #cccccc;
+    padding: 20px;
+    text-align: center;
+}
+.q img {
+    width: 100%;
+}

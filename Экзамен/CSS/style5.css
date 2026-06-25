@@ -1,0 +1,15 @@
+.q{
+text-decoration: underline;
+}
+.w{
+text-decoration: overline;
+}
+.e{
+text-decoration: line-through;
+}
+.r{
+text-decoration: underline line-through;
+}
+.t{
+text-decoration: none;
+}
